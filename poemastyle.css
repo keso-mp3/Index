@@ -23,9 +23,13 @@ h2{
 
 hr{
     border:1px dashed;
-    max-width: 800px;
+    max-width: 480px;
     margin-bottom: 5%;
     margin-top:5%;
+}
+
+footer {
+    text-align: center;
 }
 
 @media (max-width: 600px) {
