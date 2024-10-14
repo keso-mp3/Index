@@ -1,6 +1,6 @@
 body {
    
-    font-family:monospace;
+   font-family: 'Lucida Sans Unicode';
     font-size:larger;
 background: #060906;
 }
@@ -55,3 +55,9 @@ footer {
     text-align: center;
 }
 
+@media screen and (max-width: 600px) {
+    .poema{
+
+        font-size:x-large;
+    }
+}
